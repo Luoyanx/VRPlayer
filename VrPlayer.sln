@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VrPlayer.CSharp", "VrPlayer.CSharp.csproj", "{01806451-29B4-BEA5-7D85-B36D3C616D0A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VrPlayer.CSharp.Editor", "VrPlayer.CSharp.Editor.csproj", "{3C64CDBC-6BE4-3FF8-0FBA-81C30AC17BBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01806451-29B4-BEA5-7D85-B36D3C616D0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01806451-29B4-BEA5-7D85-B36D3C616D0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01806451-29B4-BEA5-7D85-B36D3C616D0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01806451-29B4-BEA5-7D85-B36D3C616D0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C64CDBC-6BE4-3FF8-0FBA-81C30AC17BBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C64CDBC-6BE4-3FF8-0FBA-81C30AC17BBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C64CDBC-6BE4-3FF8-0FBA-81C30AC17BBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C64CDBC-6BE4-3FF8-0FBA-81C30AC17BBC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
